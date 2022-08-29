@@ -1,4 +1,4 @@
-# Solutions for CS50P
+# [CS50's Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) Problem Sets Solutions Track
 
 ## Problem Set 0
 
@@ -6,7 +6,7 @@
 - [x] [Playback Speed](./ProblemSet0/playback/playback.py)
 - [x] [Making Faces](./ProblemSet0/faces/faces.py)
 - [x] [Einstein](./ProblemSet0/einstein/einstein.py)
-- [ ] [Tip Calculator]()
+- [x] [Tip Calculator](./ProblemSet0/tip/tip.py)
 
 ## Problem Set 1
 

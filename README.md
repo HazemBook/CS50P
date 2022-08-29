@@ -4,6 +4,6 @@
 
 - [x] [Indoor](./ProblemSet0/indoor/indoor.py)
 - [x] [Playback Speed](./ProblemSet0/playback/playback.py)
-- [ ] [Making Faces]()
+- [x] [Making Faces](./ProblemSet0/faces/faces.py)
 - [ ] [Einstein]()
 - [ ] [Tip Calculator]()

@@ -13,7 +13,7 @@
 ## Problem Set 1
 
 - [x] [Deep Thought](./ProblemSet1/deep/deep.py)
-- [ ] [Home Federal Savings Bank]()
+- [x] [Home Federal Savings Bank](./ProblemSet1/bank/bank.py)
 - [ ] [File Extensions]()
 - [ ] [Math Interpreter]()
 - [ ] [Meal Time]()

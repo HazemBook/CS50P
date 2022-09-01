@@ -14,8 +14,8 @@
 
 - [x] [Deep Thought](./ProblemSet1/deep/deep.py)
 - [x] [Home Federal Savings Bank](./ProblemSet1/bank/bank.py)
-- [ ] [File Extensions]()
-- [ ] [Math Interpreter]()
+- [x] [File Extensions](./ProblemSet1/extensions/extensions.py)
+- [x] [Math Interpreter](./ProblemSet1/interpreter/interpreter.py)
 - [ ] [Meal Time]()
 
 ## Problem Set 2

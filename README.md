@@ -20,7 +20,7 @@
 
 ## Problem Set 2
 
-- [ ] [Camel Case](./ProblemSet2/camel/camel.py)
+- [x] [Camel Case](./ProblemSet2/camel/camel.py)
 - [ ] Coke Machine
 - [ ] Just setting up my twttr
 - [ ] Vanity Plates

@@ -21,7 +21,7 @@
 ## Problem Set 2
 
 - [x] [Camel Case](./ProblemSet2/camel/camel.py)
-- [ ] [Coke Machine](./ProblemSet2/coke/coke.py)
+- [x] [Coke Machine](./ProblemSet2/coke/coke.py)
 - [ ] Just setting up my twttr
 - [ ] Vanity Plates
 - [ ] Nutrition Facts

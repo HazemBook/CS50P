@@ -22,7 +22,7 @@
 
 - [x] [Camel Case](./ProblemSet2/camel/camel.py)
 - [x] [Coke Machine](./ProblemSet2/coke/coke.py)
-- [ ] Just setting up my twttr
+- [ ] [Just setting up my twttr](./ProblemSet2/twttr/twttr.py)
 - [ ] Vanity Plates
 - [ ] Nutrition Facts
 
